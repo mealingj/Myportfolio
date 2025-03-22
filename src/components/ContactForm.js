@@ -2,9 +2,9 @@ import React from 'react';
 
 const ContactForm = () => {
   return (
-    <div style={{ padding: '20px', textAlign: 'center' }}>
+    <div id="contact" style={{ padding: '20px', textAlign: 'center' }}>
       <h2>Contact Me</h2>
-      <p>If you have any questions, feel free to reach out to me via email or connect with me on LinkedIn:</p>
+      <p>If you have any questions, feel free to reach out to me via email or reach out on LinkedIn:</p>
       <ul style={{ listStyleType: 'none', padding: 0 }}>
         <li>
           <a href="mailto:mealingj600@gmail.com" style={{ color: '#007bff', textDecoration: 'none' }}>

@@ -21,7 +21,7 @@ const Nav = styled.nav`
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background: #2c3e50;
+  background: #006400;
   color: white;
 `;
 
